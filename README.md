@@ -1,0 +1,30 @@
+# wmk-lp
+
+> WMK Landing Page Components
+
+[![NPM](https://img.shields.io/npm/v/wmk-lp.svg)](https://www.npmjs.com/package/wmk-lp) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+## Install
+
+```bash
+npm install --save wmk-lp
+```
+
+## Usage
+
+```jsx
+import React, { Component } from 'react'
+
+import MyComponent from 'wmk-lp'
+import 'wmk-lp/dist/index.css'
+
+class Example extends Component {
+  render() {
+    return <MyComponent />
+  }
+}
+```
+
+## License
+
+MIT © [peterwatermark](https://github.com/peterwatermark)
